@@ -7,3 +7,8 @@
 	path = xmarts/fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
 	branch = 15.0-jarochito
+
+[submodule "xmarts/stock-diference-jaro"]
+	path = xmarts/stock-diference-jaro
+	url = git@github.com:xmarts/stock-diference-jaro.git
+	branch = 15.0
