@@ -4,3 +4,6 @@
 [submodule "fieldservice_xma"]
 	path = fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
+[submodule "stock-diference-jaro"]
+	path = stock-diference-jaro
+	url = git@github.com:xmarts/stock-diference-jaro.git
